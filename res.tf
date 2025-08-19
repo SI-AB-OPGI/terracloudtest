@@ -23,6 +23,6 @@ tenant_id="7e1b4521-93b6-473d-8e77-cf32c35bff05"
 subscription_id="34a1c0d5-ab81-462c-89db-795e1572cd70"
 }
 resource azurerm_resource_group rg1{
-     name="rg1"
+     name="rg2"
      location="westus"
      }
